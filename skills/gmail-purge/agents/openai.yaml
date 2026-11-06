@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gmail Purge"
+  short_description: "Clean Gmail, unsubscribe, and repair labels and filters"
+  default_prompt: "Use $gmail-purge to audit my Gmail labels and filters, clean authorized clutter, and verify the results."
